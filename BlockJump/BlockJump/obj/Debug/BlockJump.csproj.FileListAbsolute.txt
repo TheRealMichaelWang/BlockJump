@@ -1,0 +1,67 @@
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\gaodingding.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\level1.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\level2.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\level3.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\level4.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\suprise.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\tryme.lev
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\BlockJump.exe.config
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\BlockJump.exe
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\bin\Debug\BlockJump.pdb
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.csprojAssemblyReference.cache
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.LevelMenu.resources
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.GameWindow.resources
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.Properties.Resources.resources
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.StartPage.resources
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.csproj.GenerateResource.cache
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.exe
+C:\Users\Michael Wang\Documents\BlockJump\BlockJump\obj\Debug\BlockJump.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\gaodingding.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level1.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level2.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level3.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level4.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\suprise.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\tryme.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\BlockJump.exe.config
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\BlockJump.exe
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\BlockJump.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.LevelMenu.resources
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.GameWindow.resources
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.Properties.Resources.resources
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.StartPage.resources
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.csproj.GenerateResource.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.csproj.CoreCompileInputs.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.exe
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.pdb
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\fast.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\help.txt
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level0.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\dontmove.lev
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.csprojAssemblyReference.cache
+C:\Users\Michael Wang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.LevelEditor.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\help.txt
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\dontmove.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\fast.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\gaodingding.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level0.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level1.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level2.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level3.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\level4.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\suprise.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\tryme.lev
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\BlockJump.exe.config
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\BlockJump.exe
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\bin\Debug\BlockJump.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.LevelEditor.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.LevelMenu.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.GameWindow.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.Properties.Resources.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.StartPage.resources
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.csproj.GenerateResource.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.csproj.CoreCompileInputs.cache
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.exe
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.pdb
+C:\Users\MichaelWang\Documents\Visual Studio 2019\Projects\BlockJump\BlockJump\obj\Debug\BlockJump.csprojAssemblyReference.cache
